@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+}
+#btn1, #clear{
+    display: block;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.rightFl{
+    float: right;
+}
+
